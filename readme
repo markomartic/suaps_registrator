@@ -1,0 +1,16 @@
+Script pour l'inscription automatique aux activités sportives à l'Université de Strasbourg, avec choix du créneau horaire souhaité
+
+Pré-requis :
+
+- python 2.7
+- selenium
+- déplacer geckodriver dans le PATH ou bien le déplacer vers /usr/bin avec :
+	cp geckodriver /usr/bin/geckodriver
+
+A Personnaliser dans le code :
+
+- Identifiants ernest pour se connecter au site du SUAPS
+
+TODO :
+
+- prévenir par mail que l'inscription a bien été effectueé
